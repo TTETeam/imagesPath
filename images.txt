@@ -1,0 +1,3 @@
+/content/img1.jpg
+/content/img2.jpg
+/content/img3.jpg
